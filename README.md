@@ -21,8 +21,11 @@ Analysis of their answers have conducted us to the following principles:
 - United Nations Office for the Coordination of Humanitarian affairs
 ([OCHA](http://www.unocha.org/top-stories/all-stories/ocha-launches-500-free-humanitarian-symbols)) [SVG and PNG formats](https://thenounproject.com/ochaavmu/uploads/)
 
-## Generic icons (many free)
-- [The Noun Project](thenounproject.com)
-- [Syncfusion Metro Studio](https://www.syncfusion.com/downloads/metrostudio)
-- [IconFinder](iconfinder.com)
-- [IcoMoon]{https://icomoon.io)
+## Generic icons (many of them free)
+- [The Noun Project](thenounproject.com): Many vector icons in black and white, contains also the OCHA collection 
+- [Syncfusion Metro Studio](https://www.syncfusion.com/downloads/metrostudio): Handy tool to create a collection of icons. You can also suggest missing icons, which normally, after some time, will be created for you for free
+- [IconFinder](iconfinder.com): mix of vector and normal icons, also in color. Many of dubious quality.
+- [IcoMoon](https://icomoon.io): a few free generic icon collections
+- [FontAwesome](https://fortawesome.github.io/Font-Awesome): a font with many generic and social media icons
+- [GlyphIcons](glyphicons.com): as above
+- [FamFamFam](www.famfamfam.com/lab/icons): contains for example flags of the world
