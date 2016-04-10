@@ -29,6 +29,7 @@ Analysis of their answers have conducted us to the following principles:
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome): a font with many generic and social media icons
 - [GlyphIcons](glyphicons.com): as above
 - [FamFamFam](www.famfamfam.com/lab/icons): contains for example flags of the world
+- [Google map icon font](http://map-icons.com)
 
 # Tools
 
