@@ -30,7 +30,7 @@ Analysis of their answers have conducted us to the following principles:
 - [GlyphIcons](glyphicons.com): as above
 - [FamFamFam](www.famfamfam.com/lab/icons): contains for example flags of the world
 - [Google map icon font](http://map-icons.com)
-- (General map icons from Mapbox)[https://www.mapbox.com/maki-icons]
+- [General map icons from Mapbox](https://www.mapbox.com/maki-icons)
 
 # Tools
 
