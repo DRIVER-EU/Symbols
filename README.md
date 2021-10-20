@@ -20,6 +20,7 @@ Analysis of their answers have conducted us to the following principles:
   - [D4.3.2 European Emergency 2D/3D Symbology](http://indigo.diginext.fr/EN/Documents/D4.3.2 European Emergency 2D-3D reference 1.0.pdf) by M. Schaap (CRISISPLAN), F. Bynander (CRISMART), A. Ahmad (DIGINEXT), 2012.
 - United Nations Office for the Coordination of Humanitarian affairs
 ([OCHA](http://www.unocha.org/top-stories/all-stories/ocha-launches-500-free-humanitarian-symbols)) [SVG and PNG formats](https://thenounproject.com/ochaavmu/uploads/)
+- [SITAC symbology (for forest fires)](https://www.in-prep.eu/wp-content/uploads/2018/05/Symbology-SITAC.pdf)
 
 ## Generic icons (many of them free)
 - [The Noun Project](thenounproject.com): Many vector icons in black and white, contains also the OCHA collection 
