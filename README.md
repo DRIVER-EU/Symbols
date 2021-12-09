@@ -32,6 +32,7 @@ Analysis of their answers have conducted us to the following principles:
 - [FamFamFam](www.famfamfam.com/lab/icons): contains for example flags of the world
 - [Google map icon font](http://map-icons.com)
 - [General map icons from Mapbox](https://www.mapbox.com/maki-icons)
+- See also the [military symbols APP6a](https://www.spatialillusions.com/milsymbol/).
 
 # Tools
 
