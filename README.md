@@ -21,6 +21,7 @@ Analysis of their answers have conducted us to the following principles:
 - United Nations Office for the Coordination of Humanitarian affairs
 ([OCHA](http://www.unocha.org/top-stories/all-stories/ocha-launches-500-free-humanitarian-symbols)) [SVG and PNG formats](https://thenounproject.com/ochaavmu/uploads/)
 - [SITAC symbology (for forest fires)](https://www.in-prep.eu/wp-content/uploads/2018/05/Symbology-SITAC.pdf)
+- [Online Browsing Platform](https://www.iso.org/obp/ui/en/#search) to browse for icons and ISO standards, many of them free.
 
 ## Generic icons (many of them free)
 - [The Noun Project](thenounproject.com): Many vector icons in black and white, contains also the OCHA collection 
